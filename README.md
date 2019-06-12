@@ -6,6 +6,8 @@
 # Cách run app trên thiết bị thật
 [https://facebook.github.io/react-native/docs/running-on-device](https://facebook.github.io/react-native/docs/running-on-device)
 
+<img src="https://github.com/ozuit/acb/blob/master/img/photo_2019-06-12%2010.35.43.jpeg" width="30%"><img src="https://github.com/ozuit/acb/blob/master/img/photo_2019-06-12%2010.35.36.jpeg" width="30%"><img src="https://github.com/ozuit/acb/blob/master/img/photo_2019-06-12%2010.35.32.jpeg" width="30%">
+
 # Lưu ý
 - Đây là mã nguồn mở được chia sẻ nhằm mục đích giúp các bạn Developer có thể tự tạo ra app riêng để phục vụ cho nhu cầu sử dụng cá nhân.
 - Không khuyến khích việc tạo ra app và publish lên app store.
