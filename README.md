@@ -4,7 +4,7 @@
 - Mục đích sử dụng trên thiết bị Android đã bị root nên không thể cài app chính thống từ ngân hàng ACB.
 
 # Cách run app trên thiết bị thật
-- Tự build bằng cách làm theo hướng dẫn ở 
+- Tự build bằng cách làm theo hướng dẫn ở đây
 [https://facebook.github.io/react-native/docs/running-on-device](https://facebook.github.io/react-native/docs/running-on-device)
 - Download file apk đã được build sẵn ở đây [app-release-unsigned.apk](https://github.com/ozuit/acb/releases/download/1.0/app-release-unsigned.apk)
 
