@@ -1,4 +1,4 @@
-# ACB Web Application
+# ACB Mobile Banking
 - Đây là ứng dụng ACB mobile banking được build dựa trên website [https://online.acb.com.vn](https://online.acb.com.vn) phiên bản mobile của ngân hàng ACB.
 - Công nghệ sử dụng để build ra app: React Native
 - Mục đích sử dụng trên thiết bị Android đã bị root nên không thể cài app chính thống từ ngân hàng ACB.
